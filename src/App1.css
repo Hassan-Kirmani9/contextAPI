@@ -1,0 +1,13 @@
+
+.box{
+  border: solid;
+
+  border-color: aquamarine;
+  border-width: 1px;
+padding: 11px;  
+  }
+  .cart_box{
+    border: solid;
+    border-color: aqua;
+
+  }
